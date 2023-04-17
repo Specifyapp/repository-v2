@@ -75,7 +75,8 @@
     "colors": {
       "black": {
         "value": "#000000",
-        "type": "color"
+        "type": "color",
+        "description": "This is black"
       },
       "white": {
         "value": "#ffffff",
