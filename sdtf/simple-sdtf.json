@@ -212,12 +212,13 @@
   "color": {
     "$type": "color",
     "$value": {
-      "default": {
-        "model": "rgb",
-        "alpha": 0.48,
-        "red": 51,
-        "green": 38,
-        "blue": 102
+      "light": {
+        model: literal("hex"),
+        hex: "#FFFFFF"
+      },
+      "dark": {
+        model: literal("hex"),
+        hex: "#000000"
       }
     }
   },
