@@ -213,12 +213,12 @@
     "$type": "color",
     "$value": {
       "light": {
-        model: literal("hex"),
-        hex: "#FFFFFF"
+        "model": literal("hex"),
+        "hex": "#FFFFFF"
       },
       "dark": {
-        model: literal("hex"),
-        hex: "#000000"
+        "model": literal("hex"),
+        "hex": "#000000"
       }
     }
   },
