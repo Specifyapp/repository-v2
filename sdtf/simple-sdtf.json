@@ -1,0 +1,665 @@
+{
+  "string": {
+    "$type": "string",
+    "$value": {
+      "default": "PJfp06hx8Xab"
+    }
+  },
+  "number": {
+    "$type": "number",
+    "$value": {
+      "default": 15.6
+    }
+  },
+  "boolean": {
+    "$type": "boolean",
+    "$value": {
+      "default": true
+    }
+  },
+  "null": {
+    "$type": "null",
+    "$value": {
+      "default": null
+    }
+  },
+  "array": {
+    "$type": "array",
+    "$value": {
+      "default": [
+        -2.4,
+        "uQwiVSNTAsc9",
+        false,
+        null,
+        [
+          59.4,
+          -33.3,
+          -16.7,
+          -60.7
+        ],
+        {
+          "a": 1,
+          "b": "2",
+          "c": true
+        }
+      ]
+    }
+  },
+  "object": {
+    "$type": "object",
+    "$value": {
+      "default": {
+        "a": 1,
+        "b": "2",
+        "c": true,
+        "d": null,
+        "e": [
+          2.8,
+          25.8
+        ],
+        "f": {
+          "a": 1,
+          "b": "2",
+          "c": true
+        }
+      }
+    }
+  },
+  "integerNumber": {
+    "$type": "integerNumber",
+    "$value": {
+      "default": 78
+    }
+  },
+  "zeroToOneNumber": {
+    "$type": "zeroToOneNumber",
+    "$value": {
+      "default": 0.04
+    }
+  },
+  "arcDegreeNumber": {
+    "$type": "arcDegreeNumber",
+    "$value": {
+      "default": 148.64
+    }
+  },
+  "rgbColorNumber": {
+    "$type": "rgbColorNumber",
+    "$value": {
+      "default": 76
+    }
+  },
+  "positiveNumber": {
+    "$type": "positiveNumber",
+    "$value": {
+      "default": 222.89
+    }
+  },
+  "positiveIntegerNumber": {
+    "$type": "positiveIntegerNumber",
+    "$value": {
+      "default": 457
+    }
+  },
+  "percentageNumber": {
+    "$type": "percentageNumber",
+    "$value": {
+      "default": 97.39
+    }
+  },
+  "hexadecimalColorString": {
+    "$type": "hexadecimalColorString",
+    "$value": {
+      "default": "#DD3C28"
+    }
+  },
+  "bitmap": {
+    "$type": "bitmap",
+    "$value": {
+      "default": {
+        "url": "https://sdtf.specifyapp.com/w1DLbnDeDKZ6",
+        "format": "avif",
+        "width": null,
+        "height": null,
+        "variationLabel": null
+      }
+    }
+  },
+  "bitmapFormat": {
+    "$type": "bitmapFormat",
+    "$value": {
+      "default": "jpg"
+    }
+  },
+  "blur": {
+    "$type": "blur",
+    "$value": {
+      "default": {
+        "value": 17,
+        "unit": "px"
+      }
+    }
+  },
+  "border": {
+    "$type": "border",
+    "$value": {
+      "default": {
+        "color": {
+          "model": "hsl",
+          "alpha": 0.12,
+          "hue": 293.57,
+          "saturation": 75.49,
+          "lightness": 61.98
+        },
+        "style": {
+          "dashArray": [
+            {
+              "value": 19,
+              "unit": "lvw"
+            },
+            {
+              "value": 24,
+              "unit": "lvh"
+            }
+          ],
+          "lineCap": "butt"
+        },
+        "width": {
+          "value": 3,
+          "unit": "em"
+        },
+        "rectangleCornerRadii": null
+      }
+    }
+  },
+  "borderStyle": {
+    "$type": "borderStyle",
+    "$value": {
+      "default": {
+        "dashArray": [
+          {
+            "value": 3,
+            "unit": "pt"
+          },
+          {
+            "value": 74,
+            "unit": "px"
+          },
+          {
+            "value": 75,
+            "unit": "rlh"
+          }
+        ],
+        "lineCap": "butt"
+      }
+    }
+  },
+  "borderStyleLineCap": {
+    "$type": "borderStyleLineCap",
+    "$value": {
+      "default": "round"
+    }
+  },
+  "breakpoint": {
+    "$type": "breakpoint",
+    "$value": {
+      "default": {
+        "value": 768,
+        "unit": "px"
+      }
+    }
+  },
+  "color": {
+    "$type": "color",
+    "$value": {
+      "default": {
+        "model": "rgb",
+        "alpha": 0.48,
+        "red": 51,
+        "green": 38,
+        "blue": 102
+      }
+    }
+  },
+  "cubicBezier": {
+    "$type": "cubicBezier",
+    "$value": {
+      "default": [
+        0.7015346230826776,
+        -2,
+        0.6439478633287998,
+        1
+      ]
+    }
+  },
+  "dimension": {
+    "$type": "dimension",
+    "$value": {
+      "default": {
+        "value": 33,
+        "unit": "cm"
+      }
+    }
+  },
+  "dimensionUnit": {
+    "$type": "dimensionUnit",
+    "$value": {
+      "default": "ch"
+    }
+  },
+  "duration": {
+    "$type": "duration",
+    "$value": {
+      "default": {
+        "value": 150,
+        "unit": "ms"
+      }
+    }
+  },
+  "durationUnit": {
+    "$type": "durationUnit",
+    "$value": {
+      "default": "ms"
+    }
+  },
+  "font": {
+    "$type": "font",
+    "$value": {
+      "default": {
+        "family": "Segoe UI",
+        "postScriptName": "Segoe UI_postScriptName",
+        "weight": "bold",
+        "style": "normal",
+        "provider": "Specify",
+        "files": [
+          {
+            "url": "https://fonts.specifyapp.com/font.otf",
+            "format": "otf"
+          },
+          {
+            "url": "https://fonts.specifyapp.com/font.woff",
+            "format": "woff"
+          }
+        ]
+      }
+    }
+  },
+  "fontFamily": {
+    "$type": "fontFamily",
+    "$value": {
+      "default": "Univers"
+    }
+  },
+  "fontFeature": {
+    "$type": "fontFeature",
+    "$value": {
+      "default": "slashed-zero"
+    }
+  },
+  "fontFeatures": {
+    "$type": "fontFeatures",
+    "$value": {
+      "default": [
+        "no-discretionary-ligatures"
+      ]
+    }
+  },
+  "fontFormat": {
+    "$type": "fontFormat",
+    "$value": {
+      "default": "ttf"
+    }
+  },
+  "fontStyle": {
+    "$type": "fontStyle",
+    "$value": {
+      "default": "normal"
+    }
+  },
+  "fontWeight": {
+    "$type": "fontWeight",
+    "$value": {
+      "default": "regular"
+    }
+  },
+  "gradient": {
+    "$type": "gradient",
+    "$value": {
+      "default": {
+        "type": "radial",
+        "position": "center",
+        "colorStops": [
+          {
+            "color": {
+              "model": "hsb",
+              "alpha": 0.15,
+              "hue": 158.83,
+              "saturation": 84.33,
+              "brightness": 60.28
+            },
+            "position": 0
+          },
+          {
+            "color": {
+              "model": "rgb",
+              "alpha": 0.15,
+              "red": 172,
+              "green": 220,
+              "blue": 59
+            },
+            "position": 1
+          }
+        ]
+      }
+    }
+  },
+  "gradients": {
+    "$type": "gradients",
+    "$value": {
+      "default": [
+        {
+          "type": "radial",
+          "position": "center",
+          "colorStops": [
+            {
+              "color": {
+                "model": "rgb",
+                "alpha": 0.28,
+                "red": 86,
+                "green": 160,
+                "blue": 142
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "model": "hex",
+                "alpha": 0.76,
+                "hex": "#45D3B2"
+              },
+              "position": 1
+            }
+          ]
+        },
+        {
+          "type": "radial",
+          "position": "center",
+          "colorStops": [
+            {
+              "color": {
+                "model": "hsb",
+                "alpha": 0.48,
+                "hue": 131.45,
+                "saturation": 67.09,
+                "brightness": 12.9
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "model": "lch",
+                "alpha": 0.49,
+                "lightness": 9.27,
+                "chroma": 654.62,
+                "hue": 7.62
+              },
+              "position": 1
+            }
+          ]
+        },
+        {
+          "type": "linear",
+          "angle": 35.61,
+          "colorStops": [
+            {
+              "color": {
+                "model": "hsb",
+                "alpha": 0.96,
+                "hue": 189.03,
+                "saturation": 71.41,
+                "brightness": 64.7
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "model": "hsb",
+                "alpha": 0.7,
+                "hue": 10.62,
+                "saturation": 57.63,
+                "brightness": 64.11
+              },
+              "position": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "opacity": {
+    "$type": "opacity",
+    "$value": {
+      "default": 0.54
+    }
+  },
+  "radii": {
+    "$type": "radii",
+    "$value": {
+      "default": [
+        {
+          "value": 21,
+          "unit": "px"
+        }
+      ]
+    }
+  },
+  "radius": {
+    "$type": "radius",
+    "$value": {
+      "default": {
+        "value": 21,
+        "unit": "px"
+      }
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "$value": {
+      "default": {
+        "offsetX": {
+          "value": 30,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": -16,
+          "unit": "px"
+        },
+        "blurRadius": {
+          "value": 14,
+          "unit": "px"
+        },
+        "spreadRadius": {
+          "value": 3,
+          "unit": "px"
+        },
+        "color": {
+          "model": "lch",
+          "alpha": 0.24,
+          "lightness": 80.8,
+          "chroma": 802.52,
+          "hue": 81.13
+        },
+        "type": "inner"
+      }
+    }
+  },
+  "shadows": {
+    "$type": "shadows",
+    "$value": {
+      "default": [
+        {
+          "offsetX": {
+            "value": -16,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 30,
+            "unit": "px"
+          },
+          "blurRadius": {
+            "value": 10,
+            "unit": "px"
+          },
+          "spreadRadius": {
+            "value": 14,
+            "unit": "px"
+          },
+          "color": {
+            "model": "hex",
+            "alpha": 0.5,
+            "hex": "#D4131A"
+          },
+          "type": "inner"
+        }
+      ]
+    }
+  },
+  "shadowType": {
+    "$type": "shadowType",
+    "$value": {
+      "default": "inner"
+    }
+  },
+  "spacing": {
+    "$type": "spacing",
+    "$value": {
+      "default": {
+        "value": 88,
+        "unit": "svh"
+      }
+    }
+  },
+  "spacings": {
+    "$type": "spacings",
+    "$value": {
+      "default": [
+        {
+          "value": 27,
+          "unit": "svmin"
+        }
+      ]
+    }
+  },
+  "stepsTimingFunction": {
+    "$type": "stepsTimingFunction",
+    "$value": {
+      "default": {
+        "stepsCount": 6,
+        "jumpTerm": "end"
+      }
+    }
+  },
+  "textAlignHorizontal": {
+    "$type": "textAlignHorizontal",
+    "$value": {
+      "default": "center"
+    }
+  },
+  "textAlignVertical": {
+    "$type": "textAlignVertical",
+    "$value": {
+      "default": "sub"
+    }
+  },
+  "textDecoration": {
+    "$type": "textDecoration",
+    "$value": {
+      "default": "overline"
+    }
+  },
+  "textStyle": {
+    "$type": "textStyle",
+    "$value": {
+      "default": {
+        "font": {
+          "family": "Consolas",
+          "postScriptName": "Consolas_postScriptName",
+          "weight": 300,
+          "style": "normal",
+          "provider": "external",
+          "files": [
+            {
+              "url": "https://fonts.specifyapp.com/font.otf",
+              "format": "otf"
+            },
+            {
+              "url": "https://fonts.specifyapp.com/font.woff",
+              "format": "woff"
+            }
+          ]
+        },
+        "fontSize": {
+          "value": 20,
+          "unit": "em"
+        },
+        "color": null,
+        "fontFeatures": null,
+        "lineHeight": null,
+        "letterSpacing": null,
+        "paragraphSpacing": null,
+        "textAlignHorizontal": null,
+        "textAlignVertical": null,
+        "textDecoration": null,
+        "textIndent": null,
+        "textTransform": null
+      }
+    }
+  },
+  "textTransform": {
+    "$type": "textTransform",
+    "$value": {
+      "default": "uppercase"
+    }
+  },
+  "transition": {
+    "$type": "transition",
+    "$value": {
+      "default": {
+        "duration": {
+          "value": 150,
+          "unit": "ms"
+        },
+        "delay": {
+          "value": 75,
+          "unit": "ms"
+        },
+        "timingFunction": {
+          "stepsCount": 9,
+          "jumpTerm": "end"
+        }
+      }
+    }
+  },
+  "vector": {
+    "$type": "vector",
+    "$value": {
+      "default": {
+        "url": "https://sdtf.specifyapp.com/8HYQt4XM3mGu",
+        "format": "svg",
+        "variationLabel": null
+      }
+    }
+  },
+  "vectorFormat": {
+    "$type": "vectorFormat",
+    "$value": {
+      "default": "svg"
+    }
+  },
+  "zIndex": {
+    "$type": "zIndex",
+    "$value": {
+      "default": 951
+    }
+  }
+}
