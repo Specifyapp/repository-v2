@@ -1,0 +1,32 @@
+{
+  "small": {
+    "$type": "spacing",
+    "$description": "standalone token",
+    "$value": {
+      "default": {
+        "unit": "px",
+        "value": 4
+      }
+    }
+  },
+  "background": {
+    "$type": "color",
+    "$description": "token with n mode",
+    "$value": {
+      "light": {
+        "red": 255,
+        "blue": 255,
+        "alpha": 1,
+        "green": 255,
+        "model": "rgb"
+      },
+      "dark": {
+        "red": 229,
+        "blue": 29,
+        "alpha": 1,
+        "green": 29,
+        "model": "rgb"
+      }
+    }
+  }
+}
