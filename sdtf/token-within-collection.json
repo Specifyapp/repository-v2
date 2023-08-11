@@ -3,6 +3,7 @@
     "$collection": { "$modes": ["default"] },
     "black": {
       "$type": "color",
+      "$description": "token within collection",
       "$value": {
         "default": { "model": "hex", "hex": "#000000", "alpha": 1 }
       }
