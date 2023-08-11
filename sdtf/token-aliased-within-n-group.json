@@ -1,0 +1,32 @@
+{
+  "Core": {
+    "app-primary": {
+      "$type": "color",
+      "$value": {
+        "default": {
+          "red": 98,
+          "blue": 227,
+          "alpha": 1,
+          "green": 77,
+          "model": "rgb"
+        }
+      }
+    }
+  },
+  "semantic": {
+    "background": {
+      "button": {
+        "primary": {
+          "hover": {
+            "$type": "color",
+            "$value": {
+              "default": {
+                "$alias": "Core.app-primary"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
