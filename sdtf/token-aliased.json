@@ -1,0 +1,24 @@
+{
+  "purple": {
+    "$type": "color",
+    "$description": "token aliased",
+    "$value": {
+      "default": {
+        "red": 98,
+        "blue": 227,
+        "alpha": 1,
+        "green": 77,
+        "model": "rgb"
+      }
+    }
+  },
+  "app-primary": {
+    "$type": "color",
+    "$description": "alias token",
+    "$value": {
+      "default": {
+        "$alias": "purple"
+      }
+    }
+  }
+}
