@@ -1,0 +1,11 @@
+{
+  "small": {
+    "$type": "spacing",
+    "$value": {
+      "default": {
+        "unit": "px",
+        "value": 4
+      }
+    }
+  }
+}
