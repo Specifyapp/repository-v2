@@ -72,5 +72,20 @@
         }
       }
     }
+  },
+  "colors": {
+    "background": {
+      "button": {
+        "primary": {
+          "hover": {
+						"$type": "color",
+            "$description": "token within n groups",
+            "$value": {
+              "default": { "model": "hex", "hex": "#000000", "alpha": 1 }
+            }
+          }
+        }
+      }
+    }
   }
 }
