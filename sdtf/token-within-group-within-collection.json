@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "$collection": { "$modes": ["default"] },
+    "core": {
+      "black": {
+        "$type": "color",
+        "$value": {
+          "default": { "model": "hex", "hex": "#000000", "alpha": 1 }
+        }
+      }
+    }
+  }
+}
