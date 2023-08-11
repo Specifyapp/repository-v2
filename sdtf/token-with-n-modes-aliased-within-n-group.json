@@ -1,0 +1,63 @@
+{
+  "Core": {
+    "blue-100": {
+      "$type": "color",
+      "$value": {
+        "light": {
+          "red": 255,
+          "blue": 255,
+          "alpha": 1,
+          "green": 255,
+          "model": "rgb"
+        },
+        "dark": {
+          "red": 229,
+          "blue": 29,
+          "alpha": 1,
+          "green": 29,
+          "model": "rgb"
+        }
+      }
+    },
+    "blue-700": {
+      "$type": "color",
+      "$value": {
+        "light": {
+          "red": 255,
+          "blue": 255,
+          "alpha": 1,
+          "green": 200,
+          "model": "rgb"
+        },
+        "dark": {
+          "red": 229,
+          "blue": 0,
+          "alpha": 1,
+          "green": 0,
+          "model": "rgb"
+        }
+      }
+    },
+  },
+  "semantic": {
+    "background": {
+      "button": {
+        "primary": {
+          "hover": {
+            "$type": "color",
+            "$value": {
+              "dark": {
+                "$mode": "dark",
+                "$alias": "Core.blue-100"
+              },
+              "light": {
+                "$mode": "light",
+                "$alias": "Core.blue-700"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
