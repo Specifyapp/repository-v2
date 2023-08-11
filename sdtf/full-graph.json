@@ -60,5 +60,19 @@
         "$alias": "purple"
       }
     }
+  },
+  {
+  "dimensions": {
+    "dimension-02": {
+      "$type": "dimension",
+      "$description": "token within a group",
+      "$value": {
+        "default": {
+          "unit": "px",
+          "value": 2
+        }
+      }
+    }
   }
+}
 }
