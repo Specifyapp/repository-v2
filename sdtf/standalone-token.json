@@ -1,6 +1,7 @@
 {
   "small": {
     "$type": "spacing",
+    "$description": "standalone token",
     "$value": {
       "default": {
         "unit": "px",
