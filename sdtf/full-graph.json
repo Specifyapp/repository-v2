@@ -61,7 +61,6 @@
       }
     }
   },
-  {
   "dimensions": {
     "dimension-02": {
       "$type": "dimension",
@@ -74,5 +73,4 @@
       }
     }
   }
-}
 }
