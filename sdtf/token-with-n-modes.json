@@ -1,0 +1,22 @@
+{
+  "background": {
+    "$type": "color",
+    "$description": "token with n modes",
+    "$value": {
+      "light": {
+        "red": 255,
+        "blue": 255,
+        "alpha": 1,
+        "green": 255,
+        "model": "rgb"
+      },
+      "dark": {
+        "red": 229,
+        "blue": 29,
+        "alpha": 1,
+        "green": 29,
+        "model": "rgb"
+      }
+    }
+  }
+}
