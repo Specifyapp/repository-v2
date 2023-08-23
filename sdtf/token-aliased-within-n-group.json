@@ -17,7 +17,7 @@
     "background": {
       "button": {
         "primary": {
-          "hover": {
+          "focus": {
             "$type": "color",
             "$value": {
               "default": {
