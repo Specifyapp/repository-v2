@@ -2,7 +2,7 @@
   "colors": {
     "background": {
       "button": {
-        "primary": {
+        "secondary": {
           "hover": {
             "$type": "color",
             "$description": "token within n groups",
