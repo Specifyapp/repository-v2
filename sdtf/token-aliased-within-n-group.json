@@ -2,6 +2,7 @@
   "Core": {
     "app-primary": {
       "$type": "color",
+      "$description": "token aliased within n groups",
       "$value": {
         "default": {
           "red": 98,
@@ -19,6 +20,7 @@
         "primary": {
           "focus": {
             "$type": "color",
+            "$description": "alias token within n groups",
             "$value": {
               "default": {
                 "$alias": "Core.app-primary"
