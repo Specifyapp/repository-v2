@@ -2,6 +2,7 @@
   "Colors": {
     "purple": {
       "$type": "color",
+      "$description": "token aliased within a group",
       "$value": {
         "default": {
           "red": 98,
@@ -14,6 +15,7 @@
     },
     "app-primary": {
       "$type": "color",
+      "$description": "alias token within a group",
       "$value": {
         "default": {
           "$alias": "Colors.purple"
