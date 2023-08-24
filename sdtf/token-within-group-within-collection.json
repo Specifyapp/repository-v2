@@ -4,7 +4,7 @@
     "core": {
       "black": {
         "$type": "color",
-				"$description": "token within a group within a collection",
+	"$description": "token within a group within a collection",
         "$value": {
           "default": { "model": "hex", "hex": "#000000", "alpha": 1 }
         }
