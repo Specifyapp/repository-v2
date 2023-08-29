@@ -53,11 +53,11 @@
               "$value": {
                 "dark": {
                   "$mode": "dark",
-                  "$alias": "Core.blue-100"
+                  "$alias": "colorszszszs.Core.blue-100"
                 },
                 "light": {
                   "$mode": "light",
-                  "$alias": "Core.blue-700"
+                  "$alias": "colorszszszs.Core.blue-700"
                 }
               }
             }
