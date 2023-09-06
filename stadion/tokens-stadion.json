@@ -6029,7 +6029,6 @@
       }
     }
   },
-  "Component/Core/Forms": {},
   "Component/Core/Cards": {
     "C": {
       "Card-NewsArticle": {
@@ -8768,11 +8767,6 @@
       }
     }
   },
-  "Component/Core/Carousel Blocks": {},
-  "Component/Core/Tables": {},
-  "Component/Core/Modals": {},
-  "Component/Core/Banners and Alerts": {},
-  "Component/Football/Cards": {},
   "$themes": [
     {
       "id": "c36382f2990328a163459bc136ddddffaca7b09a",
@@ -10484,7 +10478,8 @@
         "P.iconSize.L": "1f95bb04a33f1d04bd2d888ba09140834fd3f5b1"
       },
       "$figmaCollectionId": "VariableCollectionId:33646:1477",
-      "$figmaModeId": "33662:2"
+      "$figmaModeId": "33662:2",
+      "group": "v3"
     }
   ],
   "$metadata": {
