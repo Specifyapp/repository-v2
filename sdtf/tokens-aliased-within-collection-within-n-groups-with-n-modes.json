@@ -1,5 +1,5 @@
 {
-  "colorszszszs": {
+  "colors": {
     "$collection": { "$modes": ["light", "dark"] },
     "Core": {
       "blue-100": {
@@ -53,11 +53,11 @@
               "$value": {
                 "dark": {
                   "$mode": "dark",
-                  "$alias": "colorszszszs.Core.blue-100"
+                  "$alias": "colors.Core.blue-100"
                 },
                 "light": {
                   "$mode": "light",
-                  "$alias": "colorszszszs.Core.blue-700"
+                  "$alias": "colors.Core.blue-700"
                 }
               }
             }
