@@ -1,10 +1,7 @@
 {
   "Themed Colors": {
     "$collection": {
-      "$modes": [
-        "Light",
-        "Dark"
-      ]
+      "$modes": ["Light", "Dark"]
     },
     "Icon": {
       "info": {
@@ -20,9 +17,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "error": {
@@ -38,9 +33,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "default": {
@@ -56,9 +49,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "success": {
@@ -74,9 +65,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "warning": {
@@ -92,9 +81,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "disabled": {
@@ -110,9 +97,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "selected": {
@@ -128,9 +113,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "on-colored-bg": {
@@ -146,9 +129,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -166,9 +147,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "error": {
@@ -184,9 +163,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "active": {
@@ -202,9 +179,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "success": {
@@ -220,9 +195,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "warning": {
@@ -238,9 +211,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "low-emphasis": {
@@ -256,9 +227,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "high-emphasis": {
@@ -274,9 +243,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "on-colored-bg": {
@@ -292,9 +259,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "medium-emphasis": {
@@ -310,9 +275,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -336,9 +299,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "red-dark": {
@@ -360,9 +321,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "blue-base": {
@@ -384,9 +343,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-1": {
@@ -408,9 +365,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-2": {
@@ -432,9 +387,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-3": {
@@ -456,9 +409,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-4": {
@@ -480,9 +431,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-5": {
@@ -504,9 +453,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-6": {
@@ -528,9 +475,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-7": {
@@ -552,9 +497,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-8": {
@@ -576,9 +519,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "neutral-9": {
@@ -600,9 +541,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "red-light": {
@@ -624,9 +563,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "green-base": {
@@ -648,9 +585,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "orange-base": {
@@ -672,9 +607,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "red-lighter": {
@@ -696,9 +629,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "blue-lighter": {
@@ -720,9 +651,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "orange-light": {
@@ -744,9 +673,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "green-lighter": {
@@ -768,9 +695,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "orange-lighter": {
@@ -792,9 +717,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "app-violet-base": {
@@ -816,9 +739,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "app-violet-dark": {
@@ -840,9 +761,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "app-violet-light": {
@@ -864,9 +783,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "app-violet-lighter": {
@@ -888,9 +805,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -908,9 +823,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -928,9 +841,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "active": {
@@ -946,9 +857,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "darkest-border": {
@@ -964,9 +873,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "lightest-border": {
@@ -982,9 +889,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -1002,9 +907,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "child": {
@@ -1020,9 +923,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "error": {
@@ -1038,9 +939,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "input": {
@@ -1056,9 +955,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "parent": {
@@ -1074,9 +971,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "success": {
@@ -1092,9 +987,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "tooltip": {
@@ -1110,9 +1003,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "warning": {
@@ -1128,9 +1019,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "disabled": {
@@ -1146,9 +1035,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "highlight": {
@@ -1164,9 +1051,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "elevated-element": {
@@ -1182,9 +1067,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "hover-on-darkest": {
@@ -1200,9 +1083,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "hover-on-lightest": {
@@ -1218,9 +1099,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -1238,9 +1117,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "surface-1": {
@@ -1256,9 +1133,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "surface-2": {
@@ -1274,9 +1149,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "surface-3": {
@@ -1292,9 +1165,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "surface-glass": {
@@ -1316,9 +1187,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "marketing-background": {
@@ -1334,9 +1203,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -1354,9 +1221,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "primary-default": {
@@ -1372,9 +1237,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "primary-focused": {
@@ -1390,9 +1253,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "secondary-default": {
@@ -1408,9 +1269,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "destructive-default": {
@@ -1426,9 +1285,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "destructive-focused": {
@@ -1444,9 +1301,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -1464,9 +1319,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "separator": {
@@ -1482,9 +1335,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "token-icon": {
@@ -1500,9 +1351,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "token-name": {
@@ -1518,9 +1367,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "token-background": {
@@ -1536,9 +1383,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -1556,9 +1401,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "primary-active": {
@@ -1574,9 +1417,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "warning-active": {
@@ -1592,9 +1433,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "primary-default": {
@@ -1610,9 +1449,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "secondary-hover": {
@@ -1628,9 +1465,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "warning-default": {
@@ -1646,9 +1481,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "secondary-active": {
@@ -1664,9 +1497,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "destructive-hover": {
@@ -1682,9 +1513,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "secondary-default": {
@@ -1700,9 +1529,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "destructive-active": {
@@ -1718,9 +1545,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "destructive-default": {
@@ -1736,9 +1561,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "destructive-text-hover": {
@@ -1754,9 +1577,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -1780,18 +1601,14 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     }
   },
   "Colors": {
     "$collection": {
-      "$modes": [
-        "Default"
-      ]
+      "$modes": ["Default"]
     },
     "Informative": {
       "50": {
@@ -1806,9 +1623,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "100": {
@@ -1823,9 +1638,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "200": {
@@ -1840,9 +1653,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "300": {
@@ -1857,9 +1668,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "400": {
@@ -1874,9 +1683,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "500": {
@@ -1891,9 +1698,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "600": {
@@ -1908,9 +1713,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "700": {
@@ -1925,9 +1728,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "800": {
@@ -1942,9 +1743,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "900": {
@@ -1959,9 +1758,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -1978,9 +1775,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "100": {
@@ -1995,9 +1790,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "200": {
@@ -2012,9 +1805,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "300": {
@@ -2029,9 +1820,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "400": {
@@ -2046,9 +1835,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "500": {
@@ -2063,9 +1850,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "600": {
@@ -2080,9 +1865,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "700": {
@@ -2097,9 +1880,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "800": {
@@ -2114,9 +1895,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "900": {
@@ -2131,9 +1910,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -2150,9 +1927,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "White": {
@@ -2167,9 +1942,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -2186,9 +1959,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "100": {
@@ -2203,9 +1974,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "200": {
@@ -2220,9 +1989,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "300": {
@@ -2237,9 +2004,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "400": {
@@ -2254,9 +2019,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "500": {
@@ -2271,9 +2034,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "600": {
@@ -2288,9 +2049,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "700": {
@@ -2305,9 +2064,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "800": {
@@ -2322,9 +2079,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "900": {
@@ -2339,9 +2094,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -2358,9 +2111,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "100": {
@@ -2375,9 +2126,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "200": {
@@ -2392,9 +2141,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "300": {
@@ -2409,9 +2156,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "400": {
@@ -2426,9 +2171,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "500": {
@@ -2443,9 +2186,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "600": {
@@ -2460,9 +2201,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "700": {
@@ -2477,9 +2216,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "800": {
@@ -2494,9 +2231,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "900": {
@@ -2511,9 +2246,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -2530,9 +2263,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "100": {
@@ -2547,9 +2278,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "200": {
@@ -2564,9 +2293,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "300": {
@@ -2581,9 +2308,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "400": {
@@ -2598,9 +2323,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "500": {
@@ -2615,9 +2338,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "600": {
@@ -2632,9 +2353,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "700": {
@@ -2649,9 +2368,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "800": {
@@ -2666,9 +2383,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "900": {
@@ -2683,9 +2398,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     },
@@ -2702,9 +2415,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "100": {
@@ -2719,9 +2430,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "200": {
@@ -2736,9 +2445,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "300": {
@@ -2753,9 +2460,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "400": {
@@ -2770,9 +2475,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "500": {
@@ -2787,9 +2490,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "600": {
@@ -2804,9 +2505,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "700": {
@@ -2821,9 +2520,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "800": {
@@ -2838,9 +2535,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       },
       "900": {
@@ -2855,9 +2550,7 @@
           }
         },
         "$extensions": {
-          "com.specifyapp.figma-variable.scopes": [
-            "ALL_SCOPES"
-          ]
+          "com.specifyapp.figma-variable.scopes": ["ALL_SCOPES"]
         }
       }
     }
